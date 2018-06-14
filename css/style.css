@@ -206,9 +206,10 @@ a {
 }
 .content-hd .avator {
   display: block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin: 0 auto;
+  border-radius: 100%;
 }
 @media screen and (max-width: 720px) {
   .content-hd .avator {
